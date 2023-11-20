@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remote  name="github"
+           fetch="https://github.com/" />
     <!-- device tree repos -->
 	<project path="device/huawei/kirin710-9-common" name="Exynos7880-Linux/android_device_huawei_kirin710-9-common" revision="Lineage-20.0"/>
 	<project path="device/huawei/kirin710" name="Exynos7880-Linux/android_device_huawei_kirin710" revision="Lineage-20.0"/>
