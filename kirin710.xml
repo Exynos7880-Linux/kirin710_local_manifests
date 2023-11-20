@@ -2,7 +2,7 @@
 <manifest>
     <!-- device tree repos -->
 	<project path="device/huawei/kirin710-9-common" name="Exynos7880-Linux/android_device_huawei_kirin710-9-common" revision="Lineage-20.0"/>
-	<project path="device/huawei/kirin710" name="Exynos7880-Linux/android_device_huawei_kirin710" revision="eleven"/>
+	<project path="device/huawei/kirin710" name="Exynos7880-Linux/android_device_huawei_kirin710" revision="Lineage-20.0"/>
 	<project path="kernel/huawei/kirin710-9" name="Exynos7880-Linux/kernel_huawei_miami" revision="main"/>
 	<project path="vendor/huawei/kirin710" name="Exynos7880-Linux/android_vendor_huawei_kirin710" revision="EMUI-9.1.0"/>
 	<project path="vendor/huawei/kirin710-9-common" name="Exynos7880-Linux/android_vendor_huawei_kirin710-9-common" revision="EMUI-9.1.0"/>
